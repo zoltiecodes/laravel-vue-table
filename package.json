@@ -1,0 +1,37 @@
+{
+  "name": "laravel-vue-table",
+  "version": "0.0.2",
+  "description": "Dynamically builds a table from a Laravel 5 collection or Paginator instance. Sorting, filtering, pagination, columns visibility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsoltgyure/laravel-vue-table.git"
+  },
+  "keywords": [
+    "laravel",
+    "vuejs",
+    "vuejs2",
+    "vue",
+    "vue2",
+    "table",
+    "datatable"
+  ],
+  "author": "Zsolt Gyure <zsolt.gyure96@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zsoltgyure/laravel-vue-table/issues"
+  },
+  "homepage": "https://github.com/zsoltgyure/laravel-vue-table#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+    "vue-loader": "^15.2.6",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0"
+  }
+}
