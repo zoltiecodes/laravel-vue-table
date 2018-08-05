@@ -1,6 +1,6 @@
 {
   "name": "laravel-vue-table",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Dynamically builds a table from a Laravel 5 collection or Paginator instance. Sorting, filtering, pagination, columns visibility.",
   "main": "index.js",
   "scripts": {
